@@ -1,0 +1,771 @@
+,Name,Score,Category,Price_Range,Price_Range_encoded,Category_encoded
+0,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+1,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+2,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+3,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+4,5. Finding Sushi,9.1,Sushi,$$,1,21
+5,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+6,7. AlNaqaa,9.0,Breakfast,$,0,3
+7,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+8,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+9,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+10,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+11,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+12,5. Finding Sushi,9.1,Sushi,$$,1,21
+13,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+14,7. AlNaqaa,9.0,Breakfast,$,0,3
+15,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+16,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+17,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+18,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+19,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+20,5. Finding Sushi,9.1,Sushi,$$,1,21
+21,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+22,7. AlNaqaa,9.0,Breakfast,$,0,3
+23,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+24,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+25,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+26,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+27,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+28,5. Finding Sushi,9.1,Sushi,$$,1,21
+29,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+30,7. AlNaqaa,9.0,Breakfast,$,0,3
+31,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+32,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+33,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+34,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+35,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+36,5. Finding Sushi,9.1,Sushi,$$,1,21
+37,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+38,7. AlNaqaa,9.0,Breakfast,$,0,3
+39,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+40,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+41,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+42,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+43,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+44,5. Finding Sushi,9.1,Sushi,$$,1,21
+45,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+46,7. AlNaqaa,9.0,Breakfast,$,0,3
+47,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+48,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+49,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+50,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+51,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+52,5. Finding Sushi,9.1,Sushi,$$,1,21
+53,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+54,7. AlNaqaa,9.0,Breakfast,$,0,3
+55,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+56,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+57,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+58,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+59,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+60,5. Finding Sushi,9.1,Sushi,$$,1,21
+61,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+62,7. AlNaqaa,9.0,Breakfast,$,0,3
+63,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+64,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+65,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+66,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+67,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+68,5. Finding Sushi,9.1,Sushi,$$,1,21
+69,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+70,7. AlNaqaa,9.0,Breakfast,$,0,3
+71,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+72,1. فرن صحيفة وفطائر شامية,9.3,Bakery,$,0,2
+73,2. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+74,3. محامص ومطاحن السوادي,9.2,Snacks,$,0,20
+75,4. Fawal Alafrah,9.1,Breakfast,$,0,3
+76,5. Finding Sushi,9.1,Sushi,$$,1,21
+77,6. AL TYSEER,9.0,Middle Eastern,$$,1,13
+78,7. AlNaqaa,9.0,Breakfast,$,0,3
+79,8. مضغوط تهامة,9.0,Fried Chicken,$,0,10
+80,1. Dunkin’,9.6,Donuts,$,0,6
+81,2. Plenty Sld’s,9.6,Salad,$,0,17
+82,3. Shml,9.5,Café,$,0,5
+83,4. Dunkin,9.5,Donuts,$,0,6
+84,5. شاهي ابو وليد,9.5,Café,$,0,5
+85,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+86,7. Easy Bakery,9.5,Bakery,$,0,2
+87,8. The Sift,9.5,Bakery,$,0,2
+88,9. Plenty Sld’s,9.5,Salad,$,0,17
+89,10. Fabrica De Cafe,9.4,Café,$,0,5
+90,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+91,12. Biox,9.4,Bakery,$,0,2
+92,13. Unsörso Cafè,9.4,Café,$,0,5
+93,14. Fabrica De Cafe,9.4,Café,$,0,5
+94,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+95,16. McDonald's,9.4,Fast Food,$,0,8
+96,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+97,18. Half Million,9.4,Café,$,0,5
+98,19. The60Pasta,9.4,Food Truck,$,0,9
+99,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+100,21. Dopeamine,9.4,Bakery,$,0,2
+101,22. أسماك دلة,9.4,Seafood,$$,1,18
+102,23. Graph,9.3,Café,$,0,5
+103,24. SHiRO,9.3,Japanese,$,0,12
+104,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+105,26. Lavash,9.3,Armenian,$$,1,0
+106,27. Wasl Cafe,9.3,Café,$,0,5
+107,1. Dunkin’,9.6,Donuts,$,0,6
+108,2. Plenty Sld’s,9.6,Salad,$,0,17
+109,3. Shml,9.5,Café,$,0,5
+110,4. Dunkin,9.5,Donuts,$,0,6
+111,5. شاهي ابو وليد,9.5,Café,$,0,5
+112,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+113,7. Easy Bakery,9.5,Bakery,$,0,2
+114,8. The Sift,9.5,Bakery,$,0,2
+115,9. Plenty Sld’s,9.5,Salad,$,0,17
+116,10. Fabrica De Cafe,9.4,Café,$,0,5
+117,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+118,12. Biox,9.4,Bakery,$,0,2
+119,13. Unsörso Cafè,9.4,Café,$,0,5
+120,14. Fabrica De Cafe,9.4,Café,$,0,5
+121,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+122,16. McDonald's,9.4,Fast Food,$,0,8
+123,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+124,18. Half Million,9.4,Café,$,0,5
+125,19. The60Pasta,9.4,Food Truck,$,0,9
+126,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+127,21. Dopeamine,9.4,Bakery,$,0,2
+128,22. أسماك دلة,9.4,Seafood,$$,1,18
+129,23. Graph,9.3,Café,$,0,5
+130,24. SHiRO,9.3,Japanese,$,0,12
+131,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+132,26. Lavash,9.3,Armenian,$$,1,0
+133,27. Wasl Cafe,9.3,Café,$,0,5
+134,1. Dunkin’,9.6,Donuts,$,0,6
+135,2. Plenty Sld’s,9.6,Salad,$,0,17
+136,3. Shml,9.5,Café,$,0,5
+137,4. Dunkin,9.5,Donuts,$,0,6
+138,5. شاهي ابو وليد,9.5,Café,$,0,5
+139,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+140,7. Easy Bakery,9.5,Bakery,$,0,2
+141,8. The Sift,9.5,Bakery,$,0,2
+142,9. Plenty Sld’s,9.5,Salad,$,0,17
+143,10. Fabrica De Cafe,9.4,Café,$,0,5
+144,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+145,12. Biox,9.4,Bakery,$,0,2
+146,13. Unsörso Cafè,9.4,Café,$,0,5
+147,14. Fabrica De Cafe,9.4,Café,$,0,5
+148,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+149,16. McDonald's,9.4,Fast Food,$,0,8
+150,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+151,18. Half Million,9.4,Café,$,0,5
+152,19. The60Pasta,9.4,Food Truck,$,0,9
+153,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+154,21. Dopeamine,9.4,Bakery,$,0,2
+155,22. أسماك دلة,9.4,Seafood,$$,1,18
+156,23. Graph,9.3,Café,$,0,5
+157,24. SHiRO,9.3,Japanese,$,0,12
+158,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+159,26. Lavash,9.3,Armenian,$$,1,0
+160,27. Wasl Cafe,9.3,Café,$,0,5
+161,1. Dunkin’,9.6,Donuts,$,0,6
+162,2. Plenty Sld’s,9.6,Salad,$,0,17
+163,3. Shml,9.5,Café,$,0,5
+164,4. Dunkin,9.5,Donuts,$,0,6
+165,5. شاهي ابو وليد,9.5,Café,$,0,5
+166,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+167,7. Easy Bakery,9.5,Bakery,$,0,2
+168,8. The Sift,9.5,Bakery,$,0,2
+169,9. Plenty Sld’s,9.5,Salad,$,0,17
+170,10. Fabrica De Cafe,9.4,Café,$,0,5
+171,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+172,12. Biox,9.4,Bakery,$,0,2
+173,13. Unsörso Cafè,9.4,Café,$,0,5
+174,14. Fabrica De Cafe,9.4,Café,$,0,5
+175,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+176,16. McDonald's,9.4,Fast Food,$,0,8
+177,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+178,18. Half Million,9.4,Café,$,0,5
+179,19. The60Pasta,9.4,Food Truck,$,0,9
+180,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+181,21. Dopeamine,9.4,Bakery,$,0,2
+182,22. أسماك دلة,9.4,Seafood,$$,1,18
+183,23. Graph,9.3,Café,$,0,5
+184,24. SHiRO,9.3,Japanese,$,0,12
+185,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+186,26. Lavash,9.3,Armenian,$$,1,0
+187,27. Wasl Cafe,9.3,Café,$,0,5
+188,1. Dunkin’,9.6,Donuts,$,0,6
+189,2. Plenty Sld’s,9.6,Salad,$,0,17
+190,3. Shml,9.5,Café,$,0,5
+191,4. Dunkin,9.5,Donuts,$,0,6
+192,5. شاهي ابو وليد,9.5,Café,$,0,5
+193,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+194,7. Easy Bakery,9.5,Bakery,$,0,2
+195,8. The Sift,9.5,Bakery,$,0,2
+196,9. Plenty Sld’s,9.5,Salad,$,0,17
+197,10. Fabrica De Cafe,9.4,Café,$,0,5
+198,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+199,12. Biox,9.4,Bakery,$,0,2
+200,13. Unsörso Cafè,9.4,Café,$,0,5
+201,14. Fabrica De Cafe,9.4,Café,$,0,5
+202,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+203,16. McDonald's,9.4,Fast Food,$,0,8
+204,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+205,18. Half Million,9.4,Café,$,0,5
+206,19. The60Pasta,9.4,Food Truck,$,0,9
+207,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+208,21. Dopeamine,9.4,Bakery,$,0,2
+209,22. أسماك دلة,9.4,Seafood,$$,1,18
+210,23. Graph,9.3,Café,$,0,5
+211,24. SHiRO,9.3,Japanese,$,0,12
+212,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+213,26. Lavash,9.3,Armenian,$$,1,0
+214,27. Wasl Cafe,9.3,Café,$,0,5
+215,1. Dunkin’,9.6,Donuts,$,0,6
+216,2. Plenty Sld’s,9.6,Salad,$,0,17
+217,3. Shml,9.5,Café,$,0,5
+218,4. Dunkin,9.5,Donuts,$,0,6
+219,5. شاهي ابو وليد,9.5,Café,$,0,5
+220,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+221,7. Easy Bakery,9.5,Bakery,$,0,2
+222,8. The Sift,9.5,Bakery,$,0,2
+223,9. Plenty Sld’s,9.5,Salad,$,0,17
+224,10. Fabrica De Cafe,9.4,Café,$,0,5
+225,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+226,12. Biox,9.4,Bakery,$,0,2
+227,13. Unsörso Cafè,9.4,Café,$,0,5
+228,14. Fabrica De Cafe,9.4,Café,$,0,5
+229,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+230,16. McDonald's,9.4,Fast Food,$,0,8
+231,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+232,18. Half Million,9.4,Café,$,0,5
+233,19. The60Pasta,9.4,Food Truck,$,0,9
+234,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+235,21. Dopeamine,9.4,Bakery,$,0,2
+236,22. أسماك دلة,9.4,Seafood,$$,1,18
+237,23. Graph,9.3,Café,$,0,5
+238,24. SHiRO,9.3,Japanese,$,0,12
+239,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+240,26. Lavash,9.3,Armenian,$$,1,0
+241,27. Wasl Cafe,9.3,Café,$,0,5
+242,1. Dunkin’,9.6,Donuts,$,0,6
+243,2. Plenty Sld’s,9.6,Salad,$,0,17
+244,3. Shml,9.5,Café,$,0,5
+245,4. Dunkin,9.5,Donuts,$,0,6
+246,5. شاهي ابو وليد,9.5,Café,$,0,5
+247,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+248,7. Easy Bakery,9.5,Bakery,$,0,2
+249,8. The Sift,9.5,Bakery,$,0,2
+250,9. Plenty Sld’s,9.5,Salad,$,0,17
+251,10. Fabrica De Cafe,9.4,Café,$,0,5
+252,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+253,12. Biox,9.4,Bakery,$,0,2
+254,13. Unsörso Cafè,9.4,Café,$,0,5
+255,14. Fabrica De Cafe,9.4,Café,$,0,5
+256,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+257,16. McDonald's,9.4,Fast Food,$,0,8
+258,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+259,18. Half Million,9.4,Café,$,0,5
+260,19. The60Pasta,9.4,Food Truck,$,0,9
+261,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+262,21. Dopeamine,9.4,Bakery,$,0,2
+263,22. أسماك دلة,9.4,Seafood,$$,1,18
+264,23. Graph,9.3,Café,$,0,5
+265,24. SHiRO,9.3,Japanese,$,0,12
+266,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+267,26. Lavash,9.3,Armenian,$$,1,0
+268,27. Wasl Cafe,9.3,Café,$,0,5
+269,1. Dunkin’,9.6,Donuts,$,0,6
+270,2. Plenty Sld’s,9.6,Salad,$,0,17
+271,3. Shml,9.5,Café,$,0,5
+272,4. Dunkin,9.5,Donuts,$,0,6
+273,5. شاهي ابو وليد,9.5,Café,$,0,5
+274,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+275,7. Easy Bakery,9.5,Bakery,$,0,2
+276,8. The Sift,9.5,Bakery,$,0,2
+277,9. Plenty Sld’s,9.5,Salad,$,0,17
+278,10. Fabrica De Cafe,9.4,Café,$,0,5
+279,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+280,12. Biox,9.4,Bakery,$,0,2
+281,13. Unsörso Cafè,9.4,Café,$,0,5
+282,14. Fabrica De Cafe,9.4,Café,$,0,5
+283,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+284,16. McDonald's,9.4,Fast Food,$,0,8
+285,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+286,18. Half Million,9.4,Café,$,0,5
+287,19. The60Pasta,9.4,Food Truck,$,0,9
+288,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+289,21. Dopeamine,9.4,Bakery,$,0,2
+290,22. أسماك دلة,9.4,Seafood,$$,1,18
+291,23. Graph,9.3,Café,$,0,5
+292,24. SHiRO,9.3,Japanese,$,0,12
+293,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+294,26. Lavash,9.3,Armenian,$$,1,0
+295,27. Wasl Cafe,9.3,Café,$,0,5
+296,1. Dunkin’,9.6,Donuts,$,0,6
+297,2. Plenty Sld’s,9.6,Salad,$,0,17
+298,3. Shml,9.5,Café,$,0,5
+299,4. Dunkin,9.5,Donuts,$,0,6
+300,5. شاهي ابو وليد,9.5,Café,$,0,5
+301,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+302,7. Easy Bakery,9.5,Bakery,$,0,2
+303,8. The Sift,9.5,Bakery,$,0,2
+304,9. Plenty Sld’s,9.5,Salad,$,0,17
+305,10. Fabrica De Cafe,9.4,Café,$,0,5
+306,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+307,12. Biox,9.4,Bakery,$,0,2
+308,13. Unsörso Cafè,9.4,Café,$,0,5
+309,14. Fabrica De Cafe,9.4,Café,$,0,5
+310,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+311,16. McDonald's,9.4,Fast Food,$,0,8
+312,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+313,18. Half Million,9.4,Café,$,0,5
+314,19. The60Pasta,9.4,Food Truck,$,0,9
+315,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+316,21. Dopeamine,9.4,Bakery,$,0,2
+317,22. أسماك دلة,9.4,Seafood,$$,1,18
+318,23. Graph,9.3,Café,$,0,5
+319,24. SHiRO,9.3,Japanese,$,0,12
+320,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+321,26. Lavash,9.3,Armenian,$$,1,0
+322,27. Wasl Cafe,9.3,Café,$,0,5
+323,1. Dunkin’,9.6,Donuts,$,0,6
+324,2. Plenty Sld’s,9.6,Salad,$,0,17
+325,3. Shml,9.5,Café,$,0,5
+326,4. Dunkin,9.5,Donuts,$,0,6
+327,5. شاهي ابو وليد,9.5,Café,$,0,5
+328,6. Aseeb Najdi Restaurant,9.5,Restaurant,$,0,16
+329,7. Easy Bakery,9.5,Bakery,$,0,2
+330,8. The Sift,9.5,Bakery,$,0,2
+331,9. Plenty Sld’s,9.5,Salad,$,0,17
+332,10. Fabrica De Cafe,9.4,Café,$,0,5
+333,11. BAC Bakehouse & Coffee,9.4,Bakery,$,0,2
+334,12. Biox,9.4,Bakery,$,0,2
+335,13. Unsörso Cafè,9.4,Café,$,0,5
+336,14. Fabrica De Cafe,9.4,Café,$,0,5
+337,15. دوّار السّعادة,9.4,Breakfast,$,0,3
+338,16. McDonald's,9.4,Fast Food,$,0,8
+339,17. FISHFACE,9.4,Poke Restaurant,$,0,15
+340,18. Half Million,9.4,Café,$,0,5
+341,19. The60Pasta,9.4,Food Truck,$,0,9
+342,20. فوال الافراح,9.4,Breakfast,$$$,2,3
+343,21. Dopeamine,9.4,Bakery,$,0,2
+344,22. أسماك دلة,9.4,Seafood,$$,1,18
+345,23. Graph,9.3,Café,$,0,5
+346,24. SHiRO,9.3,Japanese,$,0,12
+347,25. Ghemar Cafe,9.3,Bakery,$$$,2,2
+348,26. Lavash,9.3,Armenian,$$,1,0
+349,27. Wasl Cafe,9.3,Café,$,0,5
+350,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+351,2. ساين,9.6,Burgers,$,0,4
+352,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+353,4. Red Box,9.5,Restaurant,$,0,16
+354,5. WHJ CAFE,9.3,Café,$,0,5
+355,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+356,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+357,8. DIA BAKERY,9.3,Bakery,$,0,2
+358,9. Urth Caffé,9.2,Café,$,0,5
+359,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+360,11. BLANCA,9.2,Pizza,$,0,14
+361,12. Armin,9.2,Eastern European,$,0,7
+362,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+363,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+364,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+365,16. كبدون,9.1,Breakfast,$$,1,3
+366,17. Spread,9.1,BBQ,$,0,1
+367,18. La Casa Pasta,9.1,Italian,$,0,11
+368,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+369,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+370,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+371,22. دوار السعادة,9.1,Breakfast,$,0,3
+372,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+373,24. Dunkin Dounts,9.0,Donuts,$,0,6
+374,25. دانكن دونتس,9.0,Donuts,$,0,6
+375,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+376,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+377,2. ساين,9.6,Burgers,$,0,4
+378,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+379,4. Red Box,9.5,Restaurant,$,0,16
+380,5. WHJ CAFE,9.3,Café,$,0,5
+381,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+382,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+383,8. DIA BAKERY,9.3,Bakery,$,0,2
+384,9. Urth Caffé,9.2,Café,$,0,5
+385,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+386,11. BLANCA,9.2,Pizza,$,0,14
+387,12. Armin,9.2,Eastern European,$,0,7
+388,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+389,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+390,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+391,16. كبدون,9.1,Breakfast,$$,1,3
+392,17. Spread,9.1,BBQ,$,0,1
+393,18. La Casa Pasta,9.1,Italian,$,0,11
+394,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+395,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+396,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+397,22. دوار السعادة,9.1,Breakfast,$,0,3
+398,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+399,24. Dunkin Dounts,9.0,Donuts,$,0,6
+400,25. دانكن دونتس,9.0,Donuts,$,0,6
+401,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+402,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+403,2. ساين,9.6,Burgers,$,0,4
+404,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+405,4. Red Box,9.5,Restaurant,$,0,16
+406,5. WHJ CAFE,9.3,Café,$,0,5
+407,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+408,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+409,8. DIA BAKERY,9.3,Bakery,$,0,2
+410,9. Urth Caffé,9.2,Café,$,0,5
+411,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+412,11. BLANCA,9.2,Pizza,$,0,14
+413,12. Armin,9.2,Eastern European,$,0,7
+414,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+415,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+416,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+417,16. كبدون,9.1,Breakfast,$$,1,3
+418,17. Spread,9.1,BBQ,$,0,1
+419,18. La Casa Pasta,9.1,Italian,$,0,11
+420,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+421,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+422,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+423,22. دوار السعادة,9.1,Breakfast,$,0,3
+424,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+425,24. Dunkin Dounts,9.0,Donuts,$,0,6
+426,25. دانكن دونتس,9.0,Donuts,$,0,6
+427,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+428,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+429,2. ساين,9.6,Burgers,$,0,4
+430,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+431,4. Red Box,9.5,Restaurant,$,0,16
+432,5. WHJ CAFE,9.3,Café,$,0,5
+433,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+434,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+435,8. DIA BAKERY,9.3,Bakery,$,0,2
+436,9. Urth Caffé,9.2,Café,$,0,5
+437,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+438,11. BLANCA,9.2,Pizza,$,0,14
+439,12. Armin,9.2,Eastern European,$,0,7
+440,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+441,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+442,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+443,16. كبدون,9.1,Breakfast,$$,1,3
+444,17. Spread,9.1,BBQ,$,0,1
+445,18. La Casa Pasta,9.1,Italian,$,0,11
+446,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+447,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+448,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+449,22. دوار السعادة,9.1,Breakfast,$,0,3
+450,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+451,24. Dunkin Dounts,9.0,Donuts,$,0,6
+452,25. دانكن دونتس,9.0,Donuts,$,0,6
+453,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+454,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+455,2. ساين,9.6,Burgers,$,0,4
+456,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+457,4. Red Box,9.5,Restaurant,$,0,16
+458,5. WHJ CAFE,9.3,Café,$,0,5
+459,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+460,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+461,8. DIA BAKERY,9.3,Bakery,$,0,2
+462,9. Urth Caffé,9.2,Café,$,0,5
+463,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+464,11. BLANCA,9.2,Pizza,$,0,14
+465,12. Armin,9.2,Eastern European,$,0,7
+466,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+467,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+468,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+469,16. كبدون,9.1,Breakfast,$$,1,3
+470,17. Spread,9.1,BBQ,$,0,1
+471,18. La Casa Pasta,9.1,Italian,$,0,11
+472,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+473,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+474,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+475,22. دوار السعادة,9.1,Breakfast,$,0,3
+476,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+477,24. Dunkin Dounts,9.0,Donuts,$,0,6
+478,25. دانكن دونتس,9.0,Donuts,$,0,6
+479,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+480,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+481,2. ساين,9.6,Burgers,$,0,4
+482,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+483,4. Red Box,9.5,Restaurant,$,0,16
+484,5. WHJ CAFE,9.3,Café,$,0,5
+485,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+486,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+487,8. DIA BAKERY,9.3,Bakery,$,0,2
+488,9. Urth Caffé,9.2,Café,$,0,5
+489,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+490,11. BLANCA,9.2,Pizza,$,0,14
+491,12. Armin,9.2,Eastern European,$,0,7
+492,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+493,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+494,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+495,16. كبدون,9.1,Breakfast,$$,1,3
+496,17. Spread,9.1,BBQ,$,0,1
+497,18. La Casa Pasta,9.1,Italian,$,0,11
+498,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+499,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+500,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+501,22. دوار السعادة,9.1,Breakfast,$,0,3
+502,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+503,24. Dunkin Dounts,9.0,Donuts,$,0,6
+504,25. دانكن دونتس,9.0,Donuts,$,0,6
+505,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+506,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+507,2. ساين,9.6,Burgers,$,0,4
+508,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+509,4. Red Box,9.5,Restaurant,$,0,16
+510,5. WHJ CAFE,9.3,Café,$,0,5
+511,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+512,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+513,8. DIA BAKERY,9.3,Bakery,$,0,2
+514,9. Urth Caffé,9.2,Café,$,0,5
+515,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+516,11. BLANCA,9.2,Pizza,$,0,14
+517,12. Armin,9.2,Eastern European,$,0,7
+518,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+519,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+520,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+521,16. كبدون,9.1,Breakfast,$$,1,3
+522,17. Spread,9.1,BBQ,$,0,1
+523,18. La Casa Pasta,9.1,Italian,$,0,11
+524,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+525,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+526,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+527,22. دوار السعادة,9.1,Breakfast,$,0,3
+528,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+529,24. Dunkin Dounts,9.0,Donuts,$,0,6
+530,25. دانكن دونتس,9.0,Donuts,$,0,6
+531,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+532,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+533,2. ساين,9.6,Burgers,$,0,4
+534,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+535,4. Red Box,9.5,Restaurant,$,0,16
+536,5. WHJ CAFE,9.3,Café,$,0,5
+537,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+538,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+539,8. DIA BAKERY,9.3,Bakery,$,0,2
+540,9. Urth Caffé,9.2,Café,$,0,5
+541,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+542,11. BLANCA,9.2,Pizza,$,0,14
+543,12. Armin,9.2,Eastern European,$,0,7
+544,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+545,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+546,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+547,16. كبدون,9.1,Breakfast,$$,1,3
+548,17. Spread,9.1,BBQ,$,0,1
+549,18. La Casa Pasta,9.1,Italian,$,0,11
+550,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+551,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+552,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+553,22. دوار السعادة,9.1,Breakfast,$,0,3
+554,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+555,24. Dunkin Dounts,9.0,Donuts,$,0,6
+556,25. دانكن دونتس,9.0,Donuts,$,0,6
+557,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+558,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+559,2. ساين,9.6,Burgers,$,0,4
+560,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+561,4. Red Box,9.5,Restaurant,$,0,16
+562,5. WHJ CAFE,9.3,Café,$,0,5
+563,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+564,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+565,8. DIA BAKERY,9.3,Bakery,$,0,2
+566,9. Urth Caffé,9.2,Café,$,0,5
+567,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+568,11. BLANCA,9.2,Pizza,$,0,14
+569,12. Armin,9.2,Eastern European,$,0,7
+570,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+571,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+572,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+573,16. كبدون,9.1,Breakfast,$$,1,3
+574,17. Spread,9.1,BBQ,$,0,1
+575,18. La Casa Pasta,9.1,Italian,$,0,11
+576,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+577,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+578,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+579,22. دوار السعادة,9.1,Breakfast,$,0,3
+580,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+581,24. Dunkin Dounts,9.0,Donuts,$,0,6
+582,25. دانكن دونتس,9.0,Donuts,$,0,6
+583,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+584,1. Knoll Coffee Roasters,9.6,Café,$,0,5
+585,2. ساين,9.6,Burgers,$,0,4
+586,3. Al Hatab Bakery,9.5,Bakery,$,0,2
+587,4. Red Box,9.5,Restaurant,$,0,16
+588,5. WHJ CAFE,9.3,Café,$,0,5
+589,6. Al Afrah Restaurant,9.3,Breakfast,$,0,3
+590,7. Mama Noura,9.3,Shawarma Restaurant,$,0,19
+591,8. DIA BAKERY,9.3,Bakery,$,0,2
+592,9. Urth Caffé,9.2,Café,$,0,5
+593,10. Al Hatab Bakery,9.2,Bakery,$$,1,2
+594,11. BLANCA,9.2,Pizza,$,0,14
+595,12. Armin,9.2,Eastern European,$,0,7
+596,13. Dunkin' Donuts,9.2,Donuts,$,0,6
+597,14. Al Hatab Bakery,9.1,Bakery,$,0,2
+598,15. dr.CAFE COFFEE,9.1,Café,$$,1,5
+599,16. كبدون,9.1,Breakfast,$$,1,3
+600,17. Spread,9.1,BBQ,$,0,1
+601,18. La Casa Pasta,9.1,Italian,$,0,11
+602,19. Mama Noura,9.1,Shawarma Restaurant,$,0,19
+603,20. Al Hatab Bakery,9.1,Bakery,$,0,2
+604,21. Dunkin' Donuts,9.1,Donuts,$,0,6
+605,22. دوار السعادة,9.1,Breakfast,$,0,3
+606,23. Mama Noura,9.0,Shawarma Restaurant,$,0,19
+607,24. Dunkin Dounts,9.0,Donuts,$,0,6
+608,25. دانكن دونتس,9.0,Donuts,$,0,6
+609,26. أفران الحطب || Alhatab Bakery,9.0,Bakery,$,0,2
+610,1. Coffee Maliha,9.4,Café,$,0,5
+611,2. ساين,9.4,Burgers,$,0,4
+612,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+613,4. Less Is More,9.3,Café,$,0,5
+614,5. Saheel Cafe,9.2,Café,$,0,5
+615,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+616,7. TUL CAFE,9.2,Café,$,0,5
+617,8. خُوصَة,9.2,Café,$,0,5
+618,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+619,10. البيك,9.2,Fried Chicken,$,0,10
+620,11. Deers Cafe,9.2,Café,$,0,5
+621,12. المذاق المغربي,9.1,Café,$,0,5
+622,13. مطعم خندلة,9.1,Turkish,$$,1,22
+623,14. Maqloba,9.0,Restaurant,$,0,16
+624,15. Albaik,9.0,Fried Chicken,$,0,10
+625,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+626,1. Coffee Maliha,9.4,Café,$,0,5
+627,2. ساين,9.4,Burgers,$,0,4
+628,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+629,4. Less Is More,9.3,Café,$,0,5
+630,5. Saheel Cafe,9.2,Café,$,0,5
+631,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+632,7. TUL CAFE,9.2,Café,$,0,5
+633,8. خُوصَة,9.2,Café,$,0,5
+634,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+635,10. البيك,9.2,Fried Chicken,$,0,10
+636,11. Deers Cafe,9.2,Café,$,0,5
+637,12. المذاق المغربي,9.1,Café,$,0,5
+638,13. مطعم خندلة,9.1,Turkish,$$,1,22
+639,14. Maqloba,9.0,Restaurant,$,0,16
+640,15. Albaik,9.0,Fried Chicken,$,0,10
+641,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+642,1. Coffee Maliha,9.4,Café,$,0,5
+643,2. ساين,9.4,Burgers,$,0,4
+644,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+645,4. Less Is More,9.3,Café,$,0,5
+646,5. Saheel Cafe,9.2,Café,$,0,5
+647,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+648,7. TUL CAFE,9.2,Café,$,0,5
+649,8. خُوصَة,9.2,Café,$,0,5
+650,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+651,10. البيك,9.2,Fried Chicken,$,0,10
+652,11. Deers Cafe,9.2,Café,$,0,5
+653,12. المذاق المغربي,9.1,Café,$,0,5
+654,13. مطعم خندلة,9.1,Turkish,$$,1,22
+655,14. Maqloba,9.0,Restaurant,$,0,16
+656,15. Albaik,9.0,Fried Chicken,$,0,10
+657,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+658,1. Coffee Maliha,9.4,Café,$,0,5
+659,2. ساين,9.4,Burgers,$,0,4
+660,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+661,4. Less Is More,9.3,Café,$,0,5
+662,5. Saheel Cafe,9.2,Café,$,0,5
+663,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+664,7. TUL CAFE,9.2,Café,$,0,5
+665,8. خُوصَة,9.2,Café,$,0,5
+666,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+667,10. البيك,9.2,Fried Chicken,$,0,10
+668,11. Deers Cafe,9.2,Café,$,0,5
+669,12. المذاق المغربي,9.1,Café,$,0,5
+670,13. مطعم خندلة,9.1,Turkish,$$,1,22
+671,14. Maqloba,9.0,Restaurant,$,0,16
+672,15. Albaik,9.0,Fried Chicken,$,0,10
+673,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+674,1. Coffee Maliha,9.4,Café,$,0,5
+675,2. ساين,9.4,Burgers,$,0,4
+676,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+677,4. Less Is More,9.3,Café,$,0,5
+678,5. Saheel Cafe,9.2,Café,$,0,5
+679,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+680,7. TUL CAFE,9.2,Café,$,0,5
+681,8. خُوصَة,9.2,Café,$,0,5
+682,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+683,10. البيك,9.2,Fried Chicken,$,0,10
+684,11. Deers Cafe,9.2,Café,$,0,5
+685,12. المذاق المغربي,9.1,Café,$,0,5
+686,13. مطعم خندلة,9.1,Turkish,$$,1,22
+687,14. Maqloba,9.0,Restaurant,$,0,16
+688,15. Albaik,9.0,Fried Chicken,$,0,10
+689,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+690,1. Coffee Maliha,9.4,Café,$,0,5
+691,2. ساين,9.4,Burgers,$,0,4
+692,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+693,4. Less Is More,9.3,Café,$,0,5
+694,5. Saheel Cafe,9.2,Café,$,0,5
+695,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+696,7. TUL CAFE,9.2,Café,$,0,5
+697,8. خُوصَة,9.2,Café,$,0,5
+698,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+699,10. البيك,9.2,Fried Chicken,$,0,10
+700,11. Deers Cafe,9.2,Café,$,0,5
+701,12. المذاق المغربي,9.1,Café,$,0,5
+702,13. مطعم خندلة,9.1,Turkish,$$,1,22
+703,14. Maqloba,9.0,Restaurant,$,0,16
+704,15. Albaik,9.0,Fried Chicken,$,0,10
+705,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+706,1. Coffee Maliha,9.4,Café,$,0,5
+707,2. ساين,9.4,Burgers,$,0,4
+708,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+709,4. Less Is More,9.3,Café,$,0,5
+710,5. Saheel Cafe,9.2,Café,$,0,5
+711,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+712,7. TUL CAFE,9.2,Café,$,0,5
+713,8. خُوصَة,9.2,Café,$,0,5
+714,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+715,10. البيك,9.2,Fried Chicken,$,0,10
+716,11. Deers Cafe,9.2,Café,$,0,5
+717,12. المذاق المغربي,9.1,Café,$,0,5
+718,13. مطعم خندلة,9.1,Turkish,$$,1,22
+719,14. Maqloba,9.0,Restaurant,$,0,16
+720,15. Albaik,9.0,Fried Chicken,$,0,10
+721,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+722,1. Coffee Maliha,9.4,Café,$,0,5
+723,2. ساين,9.4,Burgers,$,0,4
+724,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+725,4. Less Is More,9.3,Café,$,0,5
+726,5. Saheel Cafe,9.2,Café,$,0,5
+727,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+728,7. TUL CAFE,9.2,Café,$,0,5
+729,8. خُوصَة,9.2,Café,$,0,5
+730,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+731,10. البيك,9.2,Fried Chicken,$,0,10
+732,11. Deers Cafe,9.2,Café,$,0,5
+733,12. المذاق المغربي,9.1,Café,$,0,5
+734,13. مطعم خندلة,9.1,Turkish,$$,1,22
+735,14. Maqloba,9.0,Restaurant,$,0,16
+736,15. Albaik,9.0,Fried Chicken,$,0,10
+737,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+738,1. Coffee Maliha,9.4,Café,$,0,5
+739,2. ساين,9.4,Burgers,$,0,4
+740,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+741,4. Less Is More,9.3,Café,$,0,5
+742,5. Saheel Cafe,9.2,Café,$,0,5
+743,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+744,7. TUL CAFE,9.2,Café,$,0,5
+745,8. خُوصَة,9.2,Café,$,0,5
+746,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+747,10. البيك,9.2,Fried Chicken,$,0,10
+748,11. Deers Cafe,9.2,Café,$,0,5
+749,12. المذاق المغربي,9.1,Café,$,0,5
+750,13. مطعم خندلة,9.1,Turkish,$$,1,22
+751,14. Maqloba,9.0,Restaurant,$,0,16
+752,15. Albaik,9.0,Fried Chicken,$,0,10
+753,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
+754,1. Coffee Maliha,9.4,Café,$,0,5
+755,2. ساين,9.4,Burgers,$,0,4
+756,3. محمصة اليوم الثامن,9.4,Café,$,0,5
+757,4. Less Is More,9.3,Café,$,0,5
+758,5. Saheel Cafe,9.2,Café,$,0,5
+759,6. Al Hatab Bakery,9.2,Bakery,$,0,2
+760,7. TUL CAFE,9.2,Café,$,0,5
+761,8. خُوصَة,9.2,Café,$,0,5
+762,9. مطاعم ومطابخ باخلعه- مندي ومكتوم,9.2,Middle Eastern,$$,1,13
+763,10. البيك,9.2,Fried Chicken,$,0,10
+764,11. Deers Cafe,9.2,Café,$,0,5
+765,12. المذاق المغربي,9.1,Café,$,0,5
+766,13. مطعم خندلة,9.1,Turkish,$$,1,22
+767,14. Maqloba,9.0,Restaurant,$,0,16
+768,15. Albaik,9.0,Fried Chicken,$,0,10
+769,16. مضغوط تهامة,9.0,Fried Chicken,$$,1,10
