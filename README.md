@@ -7,10 +7,10 @@
 
 
 # Streamlit:
-[ https://use-case-8-project-5-ndyrl9snwivjwtifgjychx.streamlit.app ]
+[ https://usecase8-project5-mfhbmq3b25cy6dlhfbxhyv.streamlit.app ]
 
 # Deployment
-[ https://use-case-8-project-5.onrender.com ]
+[ https://usecase-8-project-5.onrender.com ]
 ## Introduction:
 
 Restaurant ratings serve as a valuable reference for both consumers and restaurants.
